@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/second-page",
+    "result": {"data":{"markdownRemark":{"html":"<p>Lorem ipsum.</p>","frontmatter":{"title":"Mi second page"}}},"pageContext":{"pathSlug":"/second-page","prev":{"frontmatter":{"path":"/first-page","title":"My first page","tags":["this","that"]}},"next":{"frontmatter":{"path":"/third-page","title":"Mi third page","tags":["this","other"]}}}},
+    "staticQueryHashes": []}

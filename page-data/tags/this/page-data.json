@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-singe-tag-index-js",
+    "path": "/tags/this",
+    "result": {"pageContext":{"posts":[{"frontmatter":{"path":"/first-page","title":"My first page","tags":["this","that"]}},{"frontmatter":{"path":"/third-page","title":"Mi third page","tags":["this","other"]}}],"tagName":"this"}},
+    "staticQueryHashes": []}

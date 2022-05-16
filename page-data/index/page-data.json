@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-index-js",
+    "path": "/",
+    "result": {"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"My first page","date":"2022-05-04","path":"/first-page"}}},{"node":{"frontmatter":{"title":"Mi second page","date":"2022-05-05","path":"/second-page"}}},{"node":{"frontmatter":{"title":"Mi third page","date":"2022-05-05","path":"/third-page"}}}]}},"pageContext":{}},
+    "staticQueryHashes": ["622182393"]}
